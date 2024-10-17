@@ -1,0 +1,4 @@
+baseURL = 'https://Atom-U.github.io/atom-blogV2/' 
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'PaperMod'
